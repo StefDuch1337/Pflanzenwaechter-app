@@ -183,7 +183,7 @@ elif selected_tab == "Pflanze 4":
 
 
 else:
-    st.image('/hdd/Datenbank/Bild_Webserver.jpg')
+    #st.image('/hdd/Datenbank/Bild_Webserver.jpg')
     st.markdown("<h3>Willkommen zum Zimmerpflanzenwächter!</h3>", unsafe_allow_html=True)
     st.write( """ 
              
